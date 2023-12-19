@@ -1,7 +1,41 @@
+import praw
 import tts
+from moviepy.editor import VideoFileClip
+import cv2
+import pygame
 
-input_text = "jade really stinky wow she so stinky but she look cute but wow she stinky peeeewhew"
+# Step 1: Reddit API Integration
+# Initialize Reddit API client
 
+# Step 2: TTS (Already done)
+
+input_text = "test test test"
 tts.tts("b5a3fe7dbd5812b37f1f147f0bcafee0", "en_us_001", input_text , "test1", False) 
+
+# Step 3: Video Generation
+# Create video with TTS audio and text overlay
+
+# Step 4: Minecraft Clip
+# Overlay Minecraft clip behind the text
+
+# Step 5: Video Playback
+# Play the final video with pygame
+
+# Step 6: Integration and Automation
+# Combine all the steps and automate the process
+
+# Main loop
+while False:
+    # Fetch Reddit content
+    # Generate TTS audio
+    # Create video
+    # Overlay Minecraft clip
+    # Play the final video
+
+    # Check for user input or exit conditions
+    if user_wants_to_exit:
+        break
+
+# Cleanup and exit
 
 
