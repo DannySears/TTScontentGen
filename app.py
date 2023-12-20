@@ -27,6 +27,7 @@ tts.tts("b5a3fe7dbd5812b37f1f147f0bcafee0", "en_us_001", input_text , "test1", F
 # Main loop
 while False:
     # Fetch Reddit content
+    # What else needs to be done here?
     # Generate TTS audio
     # Create video
     # Overlay Minecraft clip
