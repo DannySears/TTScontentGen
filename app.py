@@ -6,7 +6,7 @@ import pygame
 
 # Step 1: Reddit API Integration
 # Initialize Reddit API client
-
+# Adding something here
 # Step 2: TTS (Already done)
 
 input_text = "test test test"
