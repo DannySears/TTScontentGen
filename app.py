@@ -3,7 +3,7 @@ import tts
 from moviepy.editor import VideoFileClip
 import cv2
 import pygame
-
+# Adding new commment for commit
 # Step 1: Reddit API Integration
 # Initialize Reddit API client
 # Adding something here
