@@ -8,7 +8,8 @@ import pygame
 # Initialize Reddit API client
 # Adding something here
 # Step 2: TTS (Already done)
-
+# Test test 
+# New commit added?
 input_text = "test test test"
 tts.tts("b5a3fe7dbd5812b37f1f147f0bcafee0", "en_us_001", input_text , "test1", False) 
 
