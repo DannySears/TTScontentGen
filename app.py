@@ -15,7 +15,7 @@ tts.tts("b5a3fe7dbd5812b37f1f147f0bcafee0", "en_us_001", input_text , "test1", F
 
 # Step 3: Video Generation
 # Create video with TTS audio and text overlay
-
+# Not much progress going on no motivation to do this
 # Step 4: Minecraft Clip
 # Overlay Minecraft clip behind the text
 
